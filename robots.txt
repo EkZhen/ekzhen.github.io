@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets
+Disallow: /files
+Disallow: /admin
+Disallow: /webmaster
+Disallow: /operator
+Disallow: /designer
+Disallow: /partner
+Crawl-delay: 10
+Sitemap: http://jblm3.shopping2you.ru/sitemap.xml
